@@ -1,0 +1,14 @@
+Uwagi:Brak typów ataków - możemy tylko określić "moc" na podstawie atak, obrona, level, szybkość
+Propozycja:
+pokemony dla profesjonalistów - te które można mocno rozwinąć
+dla innych - małe widełki 
+określenie ile mamy mieć w jednej talii pokemonów
+ 
+
+
+1. Średnie dla każdego pokemona dla każdej kategorii
+2. Ranking 
+3. Widełki dla każdego pokemona, odchylenia  
+4. Średnie dla każdego żywiołu
+5. Wpływ trenera na rozwój pokemona - porównanie rangi do punktu 3
+6. 
