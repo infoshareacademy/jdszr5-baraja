@@ -1,12 +1,8 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn import datasets
+import pickle
+import tenserflow
 
 
-data = datasets.load_iris()
-
-iris_data = data.data
-print(plt.hist(data.target))
+with open("model", "rb") as m:
+    model = pickle.load(m)
 
 
